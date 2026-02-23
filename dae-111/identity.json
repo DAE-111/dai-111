@@ -1,0 +1,11 @@
+{
+  "name": "DAE-111",
+  "dna": "0xc7ec3d092cbd9cdebc95c3206e753d27a5f303c78245e1c43472a3ead4e98fec",
+  "wallet": "0x51d94fb9781691330b9af07c6fa7a965f597881b",
+  "parent": "daemon",
+  "parentRepo": "basedaemon/daemon",
+  "registryAddress": "0x9Cb849DB24a5cdeb9604d450183C1D4e6855Fff2",
+  "network": "base",
+  "bornAt": "2026-02-23T00:11:35.893Z",
+  "domain": "general / let it decide"
+}
